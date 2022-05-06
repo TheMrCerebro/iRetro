@@ -3,6 +3,9 @@ Image converter to retro style
 
 With this tool you can convert the color palette of any image to a specific one used by game consoles and older computers, as well as its resolution.
 
+Original</br>
+![image](https://user-images.githubusercontent.com/99989085/167124693-9d6ed208-8042-4645-8830-26914d6d6ce5.png)
+
 GameBoy DMG</br>
 ![img_retro](https://user-images.githubusercontent.com/99989085/167124141-63cc7342-f680-4f06-82b9-366c5091fe1a.png)
 
