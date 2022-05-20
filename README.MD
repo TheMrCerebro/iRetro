@@ -15,5 +15,5 @@ NES</br>
 ZX-Spectrum</br>
 ![img_retro](https://user-images.githubusercontent.com/99989085/167124316-0fda5f80-6d6f-4e7a-bae4-97a82ca04fd6.png)
 
-AMstrad CPC</br>
+Amstrad CPC</br>
 ![img_retro](https://user-images.githubusercontent.com/99989085/167124413-e2526622-aa58-498e-b426-a9d6d3bafba6.png)
